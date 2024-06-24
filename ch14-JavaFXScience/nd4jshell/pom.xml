@@ -15,7 +15,7 @@
     <dependency>
       <groupId>org.nd4j</groupId>
       <artifactId>nd4j-native-platform</artifactId>
-      <version>1.0.0-M1</version>
+      <version>1.0.0-M2.1</version>
     </dependency>
   </dependencies>
   <build>
@@ -26,31 +26,6 @@
         <version>3.8.0</version>
         <configuration>
           <release>23</release>
-        </configuration>
-      </plugin>
-      <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>exec-maven-plugin</artifactId>
-        <version>1.6.0</version>
-        <executions>
-          <execution>
-            <goals>
-              <goal>exec</goal>
-            </goals>
-          </execution>
-        </executions>
-        <configuration>
-            <executable>java</executable>
-            <longModulepath>false</longModulepath>
-            <arguments>
-                <argument>--module-path</argument>
-                <classpath />
-                <argument>--add-modules</argument>
-                <argument>javafx.controls</argument>
-                <argument>-classpath</argument>
-                <classpath />
-                <argument>org.modernclient.Plot</argument>
-            </arguments>
         </configuration>
       </plugin>
     </plugins>
