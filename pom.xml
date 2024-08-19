@@ -53,6 +53,27 @@
         <module>ch06-HighPerformanceGraphics/ParticleSystemWithConfig</module>
         <module>ch06-HighPerformanceGraphics/GameOfLife</module>
 
+        <module>ch07-BridgingSwingAndJavaFX/fxinswing</module>
+        <module>ch07-BridgingSwingAndJavaFX/multifx-in-swing</module>
+        <module>ch07-BridgingSwingAndJavaFX/webview-in-swing</module>
+        <module>ch07-BridgingSwingAndJavaFX/interactivefx</module>
+        <module>ch07-BridgingSwingAndJavaFX/bidirectionalfx</module>
+        <module>ch07-BridgingSwingAndJavaFX/multifx-in-swing-dynamic</module>
+        <module>ch07-BridgingSwingAndJavaFX/multifx-in-swing-dynamic-enhanced</module>
+        <module>ch07-BridgingSwingAndJavaFX/swingdndfx</module>
+        <module>ch07-BridgingSwingAndJavaFX/3dfx-in-swing</module>
+        <module>ch07-BridgingSwingAndJavaFX/swinginfx</module>
+
+        <module>ch08-3Dgraphics/simplesphere</module>
+        <module>ch08-3Dgraphics/spherecylinderbox</module>
+        <module>ch08-3Dgraphics/shapesandmesh</module>
+        <module>ch08-3Dgraphics/perspectivecamera</module>
+        <module>ch08-3Dgraphics/lightdemo</module>
+        <module>ch08-3Dgraphics/specularcolordemo</module>
+        <module>ch08-3Dgraphics/earthsphere</module>
+        <module>ch08-3Dgraphics/eventdemo</module>
+        <module>ch08-3Dgraphics/fxyzdemo</module>
+
         <module>ch09-WebAndCloud/WebView</module>
         <module>ch09-WebAndCloud/WebViewAction</module>
         <module>ch09-WebAndCloud/WebViewHistory</module>
@@ -60,5 +81,14 @@
         <module>ch09-WebAndCloud/WeatherApp1</module>
         <module>ch09-WebAndCloud/WeatherApp2</module>
         <module>ch09-WebAndCloud/WeatherApp3</module>
+
+        <module>ch12-RaspberryPi/Sample3</module>
+        <module>ch12-RaspberryPi/Sample7</module>
+
+        <module>ch13-MachineLearning</module>
+
+        <module>ch14-JavaFXScience/hellond4j</module>
+        <module>ch14-JavaFXScience/standalone</module>
+        <module>ch14-JavaFXScience/nd4jshell</module>
     </modules>
 </project>
